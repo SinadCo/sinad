@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="row">
         <div className="col-lg-6 col-md-7">
           <h1 className="hero-heading fw-bold tx-dark">
-          Elevating Your Digital Victory <br /> to Achive your
+          Elevating Your Digital Victory <br /> to Achive your 
             <span className="position-relative d-inline-block">Success.</span>
           </h1>
           <p className="text-lg mb-60 pt-50 pe-xl-5 lg-pt-30 lg-mb-40">

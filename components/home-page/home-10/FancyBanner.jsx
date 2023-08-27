@@ -6,7 +6,7 @@ const FancyBanner = () => {
           <div className="col-xl-8 col-lg-10 m-auto text-center">
             <div className="title-style-one" data-aos="fade-up">
               <h2 className="main-title fw-bold tx-dark m0">
-                Ready to take plan? It’s just a matter of <span>one Call</span>
+                Ready to take plan? It&apos;s just a matter of <span>one Call</span>
               </h2>
             </div>{" "}
             {/* /.title-style-one */}
@@ -15,7 +15,7 @@ const FancyBanner = () => {
               data-aos="fade-up"
               data-aos-delay="100"
             >
-              Get in Touch Today and Let's Start Building Your Success Story Together
+              Get in Touch Today and Let&apos;s Start Building Your Success Story Together
             </p>
             <a
               href="tel:+971581907573"

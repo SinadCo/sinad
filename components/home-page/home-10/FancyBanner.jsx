@@ -18,7 +18,7 @@ const FancyBanner = () => {
               Get in Touch Today and Let&apos;s Start Building Your Success Story Together
             </p>
             <a
-              href="tel:+971581907573"
+              href="tel:+249966456165"
               className="btn-two fs-18 fw-500"
               data-aos="fade-up"
               data-aos-delay="200"

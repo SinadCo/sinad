@@ -32,7 +32,7 @@ const Hero = () => {
           <i className="bi bi-check-lg" />
         </div>
         <h6 className="fw-500 tx-dark mb-15">Looking to start something awesome.</h6>
-        <a href="tel:+971581907573" className="more-btn tran3s text-uppercase fw-500 fs-13">
+        <a href="tel:+249966456165" className="more-btn tran3s text-uppercase fw-500 fs-13">
           Call Us
         </a>
       </div>
